@@ -35,9 +35,10 @@ header li:last-child {
 header nav{
     float: right;
     margin-top: 45px;
-    margin-right: 260px;
+    margin-right: 200px;
 }
 
+/*index.html css stuff*/
 .container{
     width: 100%;
     margin: auto;
@@ -70,6 +71,8 @@ header h1{
     margin-right: 203px;
     width: 960px;
     height: 500px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .about_head{
@@ -106,12 +109,60 @@ footer{
     color: #ffffff;
     height: 40px;
     width:100%;
-    min-height: 100%;
     border-top-style: solid;
     border-top-color: #4aaaa5;
     border-top-width: 8px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
 }
 
 footer p{
     margin-top: 20px;
+}
+
+/*contact.html css stuff*/
+.container_4{
+    background: #ffffff;
+    margin-top: 40px;
+    margin-bottom: 80px;
+    margin-left: 203px;
+    margin-right: 203px;
+    width: 960px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contact_head{
+    color: #4aaaa5;
+    font-size: 40px;
+    padding: 10px 10px 10px 30px;
+    font-weight: bold;
+    border-bottom-style: solid;
+    border-bottom-color: #dddddd;
+    border-bottom-width: 2px;
+}
+
+/*Portfolio.html css stuff*/
+.container_5{
+    background: #ffffff;
+    margin-top: 40px;
+    margin-bottom: 80px;
+    margin-left: 203px;
+    margin-right: 203px;
+    width: 960px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contact_portfolio{
+    color: #4aaaa5;
+    font-size: 40px;
+    padding: 10px 10px 10px 30px;
+    font-weight: bold;
+    border-bottom-style: solid;
+    border-bottom-color: #dddddd;
+    border-bottom-width: 2px;
 }
