@@ -177,7 +177,7 @@ input[type=submit]{
     margin-left: 203px;
     margin-right: 203px;
     width: 960px;
-    height: 500px;
+    height: 940px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -190,4 +190,50 @@ input[type=submit]{
     border-bottom-style: solid;
     border-bottom-color: #dddddd;
     border-bottom-width: 2px;
+}
+
+
+div.gallery img {
+    width: 275px;
+    height: 206px;
+    box-sizing: border-box; 
+    position: relative;
+    margin: 30px 30px 30px 30px;
+}
+
+div.desc_top{
+    background-color: #4aaaa5;
+    color: #ffffff;
+    position: absolute;
+    width: 275px;
+    height: 60px;
+    font-size: 18px;
+    text-align: center;
+    bottom: 445px;
+    margin: 30px;
+
+}
+
+div.desc_middle{
+    background-color: #4aaaa5;
+    color: #ffffff;
+    position: absolute;
+    width: 275px;
+    height: 60px;
+    font-size: 18px;
+    text-align: center;
+    bottom: 175px;
+    margin: 30px;
+}
+
+div.desc_bottom{
+    background-color: #4aaaa5;
+    color: #ffffff;
+    position: absolute;
+    width: 275px;
+    height: 60px;
+    font-size: 18px;
+    text-align: center;
+    bottom: -90px;
+    margin: 30px;
 }
