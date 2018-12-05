@@ -209,7 +209,7 @@ div.desc_top{
     height: 60px;
     font-size: 18px;
     text-align: center;
-    bottom: 445px;
+    bottom: 495px;
     margin: 30px;
 
 }
@@ -222,7 +222,7 @@ div.desc_middle{
     height: 60px;
     font-size: 18px;
     text-align: center;
-    bottom: 175px;
+    bottom: 225px;
     margin: 30px;
 }
 
@@ -234,6 +234,6 @@ div.desc_bottom{
     height: 60px;
     font-size: 18px;
     text-align: center;
-    bottom: -90px;
+    bottom: -40px;
     margin: 30px;
 }
