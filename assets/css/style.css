@@ -144,6 +144,31 @@ footer p{
     border-bottom-width: 2px;
 }
 
+.contact_form{
+    color: #777777;
+    font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+    font-size: 18px;
+    box-sizing: border-box;
+    margin: 30px 20px;
+}
+
+input[type=text]{
+    box-sizing: border-box;
+    width: 100%;
+    margin: 5px 5px;
+    box-sizing: border-box;
+}
+
+input[name="message"]{
+    padding: 90px;
+}
+
+input[type=submit]{
+    background-color: #4aaaa5;
+    color: #ffffff;
+    padding: 5px 25px;
+    font-size: 18px;
+}
 /*Portfolio.html css stuff*/
 .container_5{
     background: #ffffff;
